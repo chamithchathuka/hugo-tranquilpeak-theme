@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kakawait/hugo-tranquilpeak-theme.git"
+    "url": "https://github.com/chamithchathuka/hugo-tranquilpeak-theme.git"
   },
   "keywords": [
     "hugo",
@@ -22,12 +22,12 @@
     "tranquil",
     "peak"
   ],
-  "author": "Thibaud Leprêtre <thibaud.lepretre@gmail.com> (https://kakawait.com)",
+  "author": "Thibaud Leprêtre <thibaud.lepretre@gmail.com> (https://chamithchathuka.com)",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/kakawait/hugo-tranquilpeak-theme/issues"
+    "url": "https://github.com/chamithchathuka/hugo-tranquilpeak-theme/issues"
   },
-  "homepage": "https://github.com/kakawait/hugo-tranquilpeak-theme",
+  "homepage": "https://github.com/chamithchathuka/hugo-tranquilpeak-theme",
   "devDependencies": {
     "eslint": "^7.32.0",
     "eslint-config-google": "^0.14.0",
